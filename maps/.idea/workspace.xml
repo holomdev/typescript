@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="02b97f18-a291-4303-984f-09d394ab4a40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +14,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1m4JShtHWOVCIL74NWXNjhUuph6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -43,7 +44,7 @@
       <workItem from="1608746933197" duration="4384000" />
       <workItem from="1608754728352" duration="445000" />
       <workItem from="1608755201833" duration="2367000" />
-      <workItem from="1608825732066" duration="2134000" />
+      <workItem from="1608825732066" duration="4447000" />
     </task>
     <servers />
   </component>
